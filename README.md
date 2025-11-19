@@ -1,4 +1,4 @@
-# cGin&Juice Shop - Playwright (in progress)
+# Gin&Juice Shop - Playwright (in progress)
 
 UI test automation suite for the Gin & Juice Shop application, implemented with Playwright.
 
